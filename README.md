@@ -29,3 +29,5 @@ To Do
 -add redux for state management
 
 -responsive UI
+
+-refactor some types from 'any' to real type
