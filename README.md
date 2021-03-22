@@ -2,7 +2,7 @@ How To Run
 
 This order is important
 
-1. create a new postgres db and fill in 'user,password,database' in server/ormconfig\n
+1. create a new postgres db and fill in 'user,password,database' in server/ormconfig
 
 2. cd server -> npm i -> npm start         (Orm creates required tables at db)
 
