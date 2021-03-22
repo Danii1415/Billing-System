@@ -2,9 +2,9 @@
    "type": "postgres",
    "host": "localhost",
    "port": 5432,
-   "username": "postgres",
-   "password": "Melime12",
-   "database": "mypostgres",
+   "username": "",
+   "password": "",
+   "database": "",
    "synchronize": true,
    "logging": false,
    "entities": [
