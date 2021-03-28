@@ -25,7 +25,7 @@ export class TransactionController {
             throw Error('customer does not exists');
         }
         const result = await this.transactionRepository.save(request.body);
-        result.customer = customer;
+        result.customer = customer[0];
 
         return result;
     }
